@@ -15,9 +15,7 @@ const Shop = () => {
     // console.log(food)
     const newCart = [...cart, food];
     setCart(newCart)
-    console.log(newCart)
   }
-  
   return (
     <div className='shop-container'>
       <div className="foods-container">

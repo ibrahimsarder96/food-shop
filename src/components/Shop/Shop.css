@@ -18,7 +18,7 @@
       grid-template-columns: repeat(2, 1fr);
   }
 }
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 576px) {
   .shop-container{
     grid-template-columns: 1fr;
   }
