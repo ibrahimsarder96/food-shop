@@ -1,0 +1,60 @@
+[{"id":1,
+  "name":"Hamburger",
+  "price": 150,
+  "img":"https://img.freepik.com/free-photo/front-view-burger-stand_141793-15542.jpg?size=626&ext=jpg&ga=GA1.1.142737712.1632825724"
+  },
+  {"id":2,
+  "name":"Sandwich",
+  "price": 100,
+  "img":"https://img.freepik.com/free-photo/four-small-chicken-club-sandwich-portions-bamboo-skewers_140725-1655.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":3,
+  "name":"Pizza",
+  "price": 550,
+  "img":"https://img.freepik.com/free-photo/whole-italian-pizza-wooden-table-with-ingredients_251318-13.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":4,
+  "name":"Hot dog",
+  "price": 180,
+  "img":"https://img.freepik.com/free-photo/hotdog-with-ketchup-mustard-lettuce-wooden-table_2829-19803.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":5,
+  "name":"Fried chicken",
+  "price": 170,
+  "img":"https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":6,
+  "name":"Pasta",
+  "price": 120,
+  "img":"https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":7,
+  "name":"French fries",
+  "price": 130,
+  "img":"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":8,
+  "name":"pancakes",
+  "price": 135,
+  "img":"https://img.freepik.com/free-photo/front-view-yummy-round-pancakes-with-cream-red-strawberries-fruit-cake-bake_140725-22129.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":9,
+  "name":"Bagel",
+  "price": 160,
+  "img":"https://img.freepik.com/free-photo/sliced-bread-with-turkish-bagel-side-view-white-gray-surface_176474-6215.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":10,
+  "name":"Noodles",
+  "price": 160,
+  "img":"https://img.freepik.com/free-photo/style-still-life-with-noodles-bowl_1150-19766.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":11,
+  "name":"Sausage",
+  "price": 160,
+  "img":"https://img.freepik.com/free-photo/smoked-sausages-served-with-ketchup-mustard-mayonnaise-lemon_140725-8056.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  },
+  {"id":12,
+  "name":"Croissant",
+  "price": 160,
+  "img":"https://img.freepik.com/free-photo/croissants-old-wood-table_1150-12243.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+  }]
