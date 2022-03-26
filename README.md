@@ -1,5 +1,5 @@
 # Deshi Voj
-website [live link](https://cheerful-chimera-087d65.netlify.app)
+website [live link](https://cheerful-chimera-087d65.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
